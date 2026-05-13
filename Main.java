@@ -4,5 +4,6 @@ public class main {
         Produk p2 = new Makanan("Bakso", 1000, 100, 3);
 
         p1.tampilInfo();
+        kasir.tampilIndentitas();
     }
 }
