@@ -10,6 +10,7 @@ public class main {
         system.out.println();
         system.out.println();
         p2.tampilInfo();
-        kasir.tampilIndentitas();
+        kasir.tampilIndentitas();\
+        kasir.prosesBelanja(p2, 11);
     }
 }
