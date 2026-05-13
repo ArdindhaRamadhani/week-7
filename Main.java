@@ -9,5 +9,6 @@ public class main {
 
         system.out.println();
         system.out.println();
+        p2.tampilInfo();
     }
 }
