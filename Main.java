@@ -6,5 +6,7 @@ public class main {
         p1.tampilInfo();
         kasir.tampilIndentitas();
         kasir.prosesBelanja(p1, 3);
+
+        system.out.println();
     }
 }
