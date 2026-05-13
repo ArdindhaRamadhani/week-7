@@ -8,5 +8,6 @@ public class main {
         kasir.prosesBelanja(p1, 3);
 
         system.out.println();
+        system.out.println();
     }
 }
